@@ -19,7 +19,7 @@ body {
 .target-image {
   padding: var(--spacing);
   background: var(--base);
-  filter: var(--blur);
+  filter: blur(var(--blur));
   width: 50vw;
   height: 50vh;
 }
