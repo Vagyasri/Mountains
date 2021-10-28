@@ -1,3 +1,9 @@
+:root {
+  --base: #ffc600;
+  --spacing: 10px;
+  --blur: 10px;
+}
+
 body {
   background-color: rgb(81, 81, 190);
   display: flex;
@@ -11,6 +17,13 @@ body {
 }
 
 .target-image {
+  padding: var(--spacing);
+  background: var(--base);
+  filter: blur(var(--blur));
   width: 50vw;
   height: 50vh;
+}
+
+.adj {
+  color: var(--base);
 }
