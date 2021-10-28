@@ -12,7 +12,7 @@ In this Project, I am adjusting the CSS variables using Vanila Javascript.
 
 ## Screenshot
 
-![Drum](Drum.png) 
+![Scenery](Var.png) 
 
 ## Live Demo
 
