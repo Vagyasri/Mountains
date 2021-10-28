@@ -10,9 +10,9 @@ In this Project, I am adjusting the CSS variables using Vanila Javascript.
 - Webpack
 - ES6
 
-# Screenshot
+## Screenshot
 
-![Drum](Drum.png) 
+![Scenery](Var.png) 
 
 ## Live Demo
 
