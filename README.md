@@ -1,6 +1,6 @@
-# Playing with CSS Variables
+# Mountains
 
-In this Project, I am adjusting the CSS variables using Vanila Javascript.
+In this Project, I am adjusting the spacing, blur effect, and color of a certain image using CSS variables and Vanilla Javascript.
 
 ## Built With
 
@@ -16,7 +16,7 @@ In this Project, I am adjusting the CSS variables using Vanila Javascript.
 
 ## Live Demo
 
-[Live View!!](https://vagyasri.github.io/CSS-Variables/dist/)
+[Live View!!](https://vagyasri.github.io/Mountains/dist/)
 
 ## Author
 
@@ -36,9 +36,9 @@ In this Project, I am adjusting the CSS variables using Vanila Javascript.
 
 ### Cloning the repo to your local system (If you already have git, installed in your system):
 
-- [Copy this link](https://github.com/Vagyasri/CSS-Variables.git)
+- [Copy this link](https://github.com/Vagyasri/Mountains.git)
 - Open your terminal or command line
-- Run "git clone [Paste this link](https://github.com/Vagyasri/CSS-Variables.git)"
+- Run "git clone [Paste this link](https://github.com/Vagyasri/Mountains.git)"
 - Open the folder with your code editor
 - Now You can edit the code and check the changes in the browser using Live Server
 
@@ -79,7 +79,7 @@ Start by:
 - Push your branch up to your forked repository
 - Open a Pull Request with a detailed description to the development branch of the original project for a review
 
-Feel free to check the [issues page](https://github.com/Vagyasri/CSS-Variables/issues), contribute to the Project by creating an issue.
+Feel free to check the [issues page](https://github.com/Vagyasri/Mountains/issues), contribute to the Project by creating an issue.
 
 
 ## Show your support
