@@ -24,6 +24,6 @@ body {
   height: 50vh;
 }
 
-h1 {
+.adj {
   color: var(--base);
 }
