@@ -1,6 +1,6 @@
 # Playing with CSS Variables
 
-In this Project, I am adjusting the spacing, blur effect and color of a certain image Vanila Javascript.
+In this Project, I am adjusting the spacing, blur effect, and color of a certain image using CSS variables and Vanilla Javascript.
 
 ## Built With
 
