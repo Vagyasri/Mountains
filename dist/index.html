@@ -3,9 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meal</title>
+    <title>CSS Variables</title>
 <script defer src="main.js"></script></head>
 <body>
-    <h1>Meal</h1>
+    <h1 class="adj">Mountains</h1>
+    <div class="controls">
+        <label for="spacing">Spacing</label>
+        <input type="range" name="spacing" value="10" data-sizing="px" max="200" min="10">
+        
+        <label for="blur">Blur</label>
+        <input type="range" name="blur" value="10" data-sizing="px" min="0" max="25">
+
+        <label for="base">Base Color</label>
+        <input type="color" name="base" value="#ffc600">
+    </div>
+    <img src="https://bit.ly/3Bo2JsS" alt="main-image" class="target-image">
 </body>
 </html>

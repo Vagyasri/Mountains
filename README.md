@@ -12,7 +12,8 @@ In this Project, I am adjusting the spacing, blur effect, and color of a certain
 
 ## Screenshot
 
-![Scenery](Var.png) 
+![Scenery](Mountains.png)
+![Blur](Blur-Mountain.png)
 
 ## Live Demo
 
